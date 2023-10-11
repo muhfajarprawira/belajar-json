@@ -1,0 +1,25 @@
+[
+	{
+		"nama": "Muhammad Fajar Prawira",
+		"umur": 24,
+		"nim": "H1101161045",
+		"lulus": true,
+		"hobby": ["badminton", "Gaming"],
+		"pembimbing": {
+			"pem1": "bu",
+			"pem2": "ini"
+		}
+	},
+
+	{
+		"nama": "Dedi",
+		"umur": 25,
+		"nim": "H1101161046",
+		"lulus": true,
+		"hobby": ["renang", "tenis"],
+		"pembimbing": {
+			"pem1": "eni",
+			"pem2": "duni"
+		}
+	}
+]
